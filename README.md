@@ -1,1 +1,2 @@
-newmath tut ex
+go newmath tut ex
+
